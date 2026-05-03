@@ -1,5 +1,5 @@
 //Contains Duplicate
-//Skeleton
+//Skeleton code
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
