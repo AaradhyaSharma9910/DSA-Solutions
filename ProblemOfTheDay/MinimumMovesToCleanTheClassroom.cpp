@@ -114,4 +114,4 @@ public:
 
 // Define static constexpr arrays outside the class
 constexpr int Solution::dx[4];
-constexpr int Solution::dy[4];
+constexpr int Solution::dy[4]  ;
